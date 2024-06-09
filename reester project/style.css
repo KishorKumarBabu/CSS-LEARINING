@@ -55,11 +55,11 @@ h3{
 td{
     text-align: center;
 }
-.send{
+button{
     background-color:yellow ;
     color: black;
     padding: 3px;
     display: inline-block;
-    width: 300px;
+    width: 200px;
 }
 
