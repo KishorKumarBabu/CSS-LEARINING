@@ -44,7 +44,10 @@ h3{
     display: inline;
     padding: 3px;
     cursor: pointer;
-
+}
+h3:hover{
+    background-color: white;
+    color: black;
 }
 .contact{
     background-color: black;
