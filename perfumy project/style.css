@@ -35,9 +35,21 @@ input{
     display: inline-block;
     width: 220px;
 }
+.box:hover img{
+    width: 100%;
+    
+}
+.box:hover p{
+
+    font-size: 1.2em;  /* Increase the font size */
+    transition: color 0.5s, font-size 0.5s;
+}
+
 .box:hover{
     background-color: black;
     color:white;
+    width: 300px;
+    transition: width 0.5s;
 }
 .product{
     text-align: center;
